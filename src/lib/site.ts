@@ -2,7 +2,7 @@ export const SITE = {
   name: "Gisil Beauty Lounge",
   tagline: "Beauty, composed around you.",
   city: "Aba, Abia State, Nigeria",
-  address: "15 Clifford Road, Aba, Abia State, Nigeria",
+  address: "#12 Brass Road Adjacent FCMB Bank, Aba, Abia State, Nigeria",
   phone: "+234 809 500 5114",
   phoneHref: "tel:+2348095005114",
   email: "gisilbeauty1@gmail.com",
