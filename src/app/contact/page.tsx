@@ -94,7 +94,7 @@ export default function ContactPage() {
           <div className="overflow-hidden rounded-[2.5rem] shadow-lg">
             <iframe
               title="Gisil Beauty Lounge location — Aba, Abia State, Nigeria"
-              src="https://www.google.com/maps?q=Aba%2C%20Abia%20State%2C%20Nigeria&output=embed"
+              src="https://www.google.com/maps?q=12+Brass+Road+Adjacent+FCMB+Bank+Aba+Abia+State+Nigeria&output=embed"
               className="h-full min-h-[520px] w-full border-0"
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
