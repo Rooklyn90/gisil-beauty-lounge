@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: SITE.name,
     description: "Beauty, composed around you. Hair, wigs, makeup, nails and lashes in Aba.",
-    images: ["/images/hero-poster.jpg"],
+    images: ["/images/hero-poster.png"],
   },
 };
 
@@ -29,7 +29,7 @@ const jsonLd = {
   slogan: SITE.tagline,
   telephone: SITE.phone,
   email: SITE.email,
-  image: "/images/hero-poster.jpg",
+  image: "/images/hero-poster.png",
   priceRange: "₦₦",
   address: {
     "@type": "PostalAddress",
