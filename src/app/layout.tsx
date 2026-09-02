@@ -33,7 +33,7 @@ const jsonLd = {
   priceRange: "₦₦",
   address: {
     "@type": "PostalAddress",
-    streetAddress: "15 Clifford Road",
+    streetAddress: "#12 Brass Road Adjacent FCMB Bank",
     addressLocality: "Aba",
     addressRegion: "Abia State",
     addressCountry: "NG",
