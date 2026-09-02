@@ -82,7 +82,7 @@ export default function MenuPage() {
         </section>
       </main>
 
-      <div className="fixed inset-x-0 bottom-0 z-50 bg-gradient-to-t from-porcelain via-porcelain/95 to-transparent p-4">
+      <div className="fixed inset-x-0 bottom-0 z-50 bg-gradient-to-t from-porcelain via-porcelain/95 to-transparent px-4 pt-4 pb-8">
         <a
           href={WHATSAPP_DEFAULT}
           target="_blank"
