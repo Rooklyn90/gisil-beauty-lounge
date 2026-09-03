@@ -15,6 +15,9 @@ export const metadata: Metadata = {
   },
   description:
     "Gisil Beauty Lounge is a premium beauty lounge in Aba, Abia State, Nigeria for frontal installation, custom wigs, bridal hair, makeup, luxury nails, pedicure and lash extensions.",
+    icons: {
+    icon: "/logo.png",
+  },
   openGraph: {
     title: SITE.name,
     description: "Beauty, composed around you. Hair, wigs, makeup, nails and lashes in Aba.",
